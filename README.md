@@ -1,9 +1,9 @@
-# home-WebGL-movingBall-cs-vgoette
+# inclass-WebGL-cs-vgoette
 
 ### Project description: 
 The project consists of a canvas (960x600), with a button, a text, four Empty Game Objects, a GameObject ball (imported) and a script 
 
-When the button is pressed the ball moves randoly to one of four positions (PosBottomLeft, PosBottomRight, PosTopLeft, PosTopRight 
+When the button is pressed the ball moves randomly to one of four positions (PosBottomLeft, PosBottomRight, PosTopLeft, PosTopRight )
 
 ### Development platform: 
 * Windows 10; 
@@ -20,6 +20,9 @@ WebGL incl. reference resolution 960x600
 
 ### Third party material: 
 <a href="https://image.flaticon.com/icons/svg/53/53283.svg">Fußball PNG</a>
+
+### Project State:
+undone
 
 ### Limitations: 
 WebGL
